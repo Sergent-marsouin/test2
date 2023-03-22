@@ -1,5 +1,5 @@
 *{
-background-color: yellow;
+background-color: #00E699;
 }
 
 h1 {
@@ -10,4 +10,13 @@ p{
 font-size: 2.5em;
 font-family: cursive;
 color: purple;
+}
+
+h2{
+color: white;
+}
+
+.deuxP{
+font-size: 0.5em;
+color: black;
 }
